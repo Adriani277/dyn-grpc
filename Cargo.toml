@@ -1,0 +1,3 @@
+[workspace]
+members = ["crates/dyn-grpc", "crates/dyn-grpc-cli"]
+resolver = "2"
